@@ -83,7 +83,7 @@ class RNAAlysis :
         # display graph
         plt.scatter( X, Y, color='purple') 
 
-        plt.title(" Empirical Analysis of Longest Common Subsequence ( Dynamic Programming Approach ) ", loc='center')
+        plt.title(" Empirical Analysis of Longest Common Subsequence ( Dynamic Programming ) ", loc='center')
         plt.xlabel(" Algorithm execution time (s) ")
         plt.ylabel( " Length of input String N (#) ")
 
